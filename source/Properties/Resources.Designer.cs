@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FastSegaTools_With_GUI.Properties {
+namespace FastSegatools_With_GUI.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace FastSegaTools_With_GUI.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("FastSegaTools_With_GUI.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("FastSegatools_With_GUI.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -57,6 +57,41 @@ namespace FastSegaTools_With_GUI.Properties {
             }
             set {
                 resourceCulture = value;
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似于 (图标) 的 System.Drawing.Icon 类型的本地化资源。
+        /// </summary>
+        internal static System.Drawing.Icon Icon {
+            get {
+                object obj = ResourceManager.GetObject("Icon", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 [vfs]
+        ///; Insert the path to the game AMFS directory here (contains ICF1 and ICF2)
+        ///amfs=C:\
+        ///; Create an empty directory somewhere and insert the path here.
+        ///; This directory may be shared between multiple SEGA games.
+        ///; NOTE: This has nothing to do with Windows %APPDATA%.
+        ///appdata=C:\
+        ///
+        ///[dns]
+        ///; Insert the hostname or IP address of the server you wish to use here.
+        ///; Note that 127.0.0.1, localhost etc are specifically rejected.
+        ///default=localhost
+        ///
+        ///[ds]
+        ///; Region code on the emulated AMEX board DS EEPROM.
+        ///; 1: Japan
+        ///; [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string segatools_ini {
+            get {
+                return ResourceManager.GetString("segatools_ini", resourceCulture);
             }
         }
     }

@@ -1,17 +1,23 @@
-This is a C sharp program used to configure segatools without manually modifying segatools.ini
+# Fast Segatools With GUI
+
+[English README](https://github.com/Raspberry-Monster/Fast-Segatools-With-GUI/blob/master/README.en-US.md)
+
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/Raspberry-Monster/Fast-Segatools-With-GUI)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Raspberry-Monster/Fast-Segatools-With-GUI?include_prereleases)
+
+## 简介
 
 这是一个用于配置SegaTools，而无需手动修改Segatools.ini的一个C#程序
 
-This program has taken a lot of big people's efforts. I hope you're happy with it
-
 此程序花费了很多大佬的心血 希望你用的开心
 
-Thank you all for participating in the development and giving me valuable suggestions. Thank you
-
 在此感谢所有参与开发，向我提出了宝贵建议的朋友们 谢谢大家
-
-Enjoy yourself
 
 尽情享受吧
 
 2020/2/6 By Raspberry Monster
+
+---
+## 编译注意事项
+- 最低 .NET Framework 4.5 targeting pack
+- 如果设计器报错，请根据提示先生成程序
