@@ -1,0 +1,19 @@
+C:\Users\21945\source\repos\FastSegatools With GUI\FastSegatools With GUI\obj\Debug\FastSegatools With GUI.csprojAssemblyReference.cache
+C:\Users\21945\source\repos\FastSegatools With GUI\FastSegatools With GUI\obj\Debug\FastSegatools_With_GUI.Properties.Resources.resources
+C:\Users\21945\source\repos\FastSegatools With GUI\FastSegatools With GUI\obj\Debug\FastSegatools_With_GUI.Startwin.resources
+C:\Users\21945\source\repos\FastSegatools With GUI\FastSegatools With GUI\obj\Debug\FastSegatools With GUI.csproj.GenerateResource.cache
+C:\Users\21945\source\repos\FastSegatools With GUI\FastSegatools With GUI\bin\Debug\FastSegatools With GUI.exe
+C:\Users\21945\source\repos\FastSegatools With GUI\FastSegatools With GUI\bin\Debug\FastSegatools With GUI.pdb
+C:\Users\21945\source\repos\FastSegatools With GUI\FastSegatools With GUI\obj\Debug\FastSegatools With GUI.exe
+C:\Users\21945\source\repos\FastSegatools With GUI\FastSegatools With GUI\obj\Debug\FastSegatools With GUI.pdb
+C:\Users\21945\source\repos\FastSegatools With GUI\FastSegatools With GUI\obj\Debug\FastSegatools_With_GUI.SetIP.resources
+C:\Users\21945\source\repos\FastSegatools With GUI\FastSegatools With GUI\obj\Debug\FastSegatools_With_GUI.Setserver.resources
+C:\Users\ctrge\Desktop\Fast-Segatools-With-GUI-master\1.00\FastSegatools With GUI\bin\Debug\FastSegatools With GUI.exe
+C:\Users\ctrge\Desktop\Fast-Segatools-With-GUI-master\1.00\FastSegatools With GUI\bin\Debug\FastSegatools With GUI.pdb
+C:\Users\ctrge\Desktop\Fast-Segatools-With-GUI-master\1.00\FastSegatools With GUI\obj\Debug\FastSegatools With GUI.csprojAssemblyReference.cache
+C:\Users\ctrge\Desktop\Fast-Segatools-With-GUI-master\1.00\FastSegatools With GUI\obj\Debug\FastSegatools_With_GUI.Properties.Resources.resources
+C:\Users\ctrge\Desktop\Fast-Segatools-With-GUI-master\1.00\FastSegatools With GUI\obj\Debug\FastSegaTools_with_GUI.Startwin.resources
+C:\Users\ctrge\Desktop\Fast-Segatools-With-GUI-master\1.00\FastSegatools With GUI\obj\Debug\FastSegatools With GUI.csproj.GenerateResource.cache
+C:\Users\ctrge\Desktop\Fast-Segatools-With-GUI-master\1.00\FastSegatools With GUI\obj\Debug\FastSegatools With GUI.exe
+C:\Users\ctrge\Desktop\Fast-Segatools-With-GUI-master\1.00\FastSegatools With GUI\obj\Debug\FastSegatools With GUI.pdb
+C:\Users\ctrge\Desktop\Fast-Segatools-With-GUI-master\1.00\FastSegatools With GUI\obj\Debug\FastSegaTools_with_GUI.ConfigForm.resources
