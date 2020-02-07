@@ -19,6 +19,7 @@ namespace FastSegaTools_with_GUI
         public Startwin()
         {
             InitializeComponent();
+            if (System.IO.File.Exists(@"Custom")) Server_textBox.Text = System.IO.File.ReadAllText(@"Custom");
         }
 
         private void Start_Click(object sender, EventArgs e)
@@ -231,6 +232,11 @@ namespace FastSegaTools_with_GUI
         private void label1_Click(object sender, EventArgs e)
         {
             if (ModifierKeys == Keys.Control) ipTextBox.Enabled = !ipTextBox.Enabled;
+        }
+
+        private void Server_textBox_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

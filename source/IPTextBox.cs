@@ -18,5 +18,10 @@ namespace FastSegatools_With_GUI
                 return cp;
             }
         }
+
+        private void textBox1_TextChanged(object sender, System.EventArgs e)
+        {
+
+        }
     }
 }
