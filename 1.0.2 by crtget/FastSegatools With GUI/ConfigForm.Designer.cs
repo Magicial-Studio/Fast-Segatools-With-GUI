@@ -97,6 +97,7 @@
             this.cbxaddr.Name = "cbxaddr";
             this.cbxaddr.Size = new System.Drawing.Size(331, 20);
             this.cbxaddr.TabIndex = 0;
+            this.cbxaddr.SelectedIndexChanged += new System.EventHandler(this.cbxaddr_SelectedIndexChanged);
             // 
             // ConfigForm
             // 

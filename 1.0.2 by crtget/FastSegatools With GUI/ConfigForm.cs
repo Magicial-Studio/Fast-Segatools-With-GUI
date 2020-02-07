@@ -52,5 +52,10 @@ namespace FastSegaTools_with_GUI
         {
             Application.Exit();
         }
+
+        private void cbxaddr_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
