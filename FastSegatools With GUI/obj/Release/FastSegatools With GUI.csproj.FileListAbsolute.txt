@@ -1,0 +1,9 @@
+C:\Users\21945\source\repos\FastSegaTools with GUI\FastSegatools With GUI\bin\Release\FastSegatools With GUI.exe
+C:\Users\21945\source\repos\FastSegaTools with GUI\FastSegatools With GUI\bin\Release\FastSegatools With GUI.pdb
+C:\Users\21945\source\repos\FastSegaTools with GUI\FastSegatools With GUI\obj\Release\FastSegatools_With_GUI.SetServer.resources
+C:\Users\21945\source\repos\FastSegaTools with GUI\FastSegatools With GUI\obj\Release\FastSegatools_With_GUI.Properties.Resources.resources
+C:\Users\21945\source\repos\FastSegaTools with GUI\FastSegatools With GUI\obj\Release\FastSegatools_With_GUI.SetIP.resources
+C:\Users\21945\source\repos\FastSegaTools with GUI\FastSegatools With GUI\obj\Release\FastSegaTools_with_GUI.Startwin.resources
+C:\Users\21945\source\repos\FastSegaTools with GUI\FastSegatools With GUI\obj\Release\FastSegatools With GUI.csproj.GenerateResource.cache
+C:\Users\21945\source\repos\FastSegaTools with GUI\FastSegatools With GUI\obj\Release\FastSegatools With GUI.exe
+C:\Users\21945\source\repos\FastSegaTools with GUI\FastSegatools With GUI\obj\Release\FastSegatools With GUI.pdb
